@@ -1,0 +1,26 @@
+header{
+  width: 100%; /*ancho de la pagina*/
+  padding: 12px; /*relleno del header*/
+  
+  background-color: #f7d6e0;
+  
+}
+
+header h1{
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+
+nav{
+  text-align: center;
+  width: 100%; /*ancho de la pagina*/
+  padding: 12px; /*relleno del header*/
+  background-color: #f7d6e0;
+}
+
+nav a{
+  color: blueviolet;
+  font-size: 19px; 
+  text-decoration: none;
+  margin: 0 13px;
+}
