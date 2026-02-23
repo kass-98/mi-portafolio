@@ -1,3 +1,5 @@
+Sitio web mi-portafolio
+
 Este proyecto consiste en el desarrollo de un portafolio web personal utilizando HTML y CSS. El sitio incluye una estructura semántica organizada, una barra de navegación, secciones de proyectos, un formulario de contacto y enlaces a redes sociales.
 
 Además, se utilizó Git y GitHub para gestionar el control de versiones, organizar los avances del proyecto y documentar el proceso mediante commits.
@@ -13,3 +15,13 @@ Para descargar el proyecto y verlo en tu computadora, estos son los pasos que de
 7. elecciona la carpeta que descomprimiste.
 8. Abre el archivo index.html y listo 
 
+# Enlaces
+
+- GitHub Pages:
+  https://kass-98.github.io/mi-portafolio/
+
+- Repositorio en GitHub:
+  https://github.com/kass-98/mi-portafolio
+
+- Archivo de evidencias:
+  https://github.com/kass-98/mi-portafolio/blob/main/EVIDENCIAS.md

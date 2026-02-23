@@ -17,3 +17,15 @@
 4\. ¿Qué mejorarías en la siguiente iteración?
     En la siguiente iteración me gustaría mejorar el diseño visual del sitio, hacerlo más dinámico e interactivo, y aplicar mejores estilos para que no se vea tan simple. También me gustaría implementar un modo claro/oscuro y agregar más efectos visuales con CSS.
 
+# Evidencias
+
+# GitHub Pages activo
+
+![Configuración Pages](img/pages.png)
+
+---
+
+# Sitio publicado en navegador
+
+![Vista del sitio 1](img/repositorio.png)
+
