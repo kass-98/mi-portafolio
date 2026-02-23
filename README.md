@@ -23,5 +23,3 @@ Para descargar el proyecto y verlo en tu computadora, estos son los pasos que de
 - Repositorio en GitHub:
   https://github.com/kass-98/mi-portafolio
 
-- Archivo de evidencias:
-  https://github.com/kass-98/mi-portafolio/blob/main/EVIDENCIAS.md
